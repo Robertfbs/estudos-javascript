@@ -1,5 +1,5 @@
 const precoEtiqueta = 100;
-const formaDePagamento = 4;
+const formaDePagamento = 1;
 
 if(formaDePagamento === 1){
     console.log(precoEtiqueta - (precoEtiqueta * 0.1));
