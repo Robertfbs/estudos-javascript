@@ -25,7 +25,7 @@ function aplicarJuros(valor, juros){
     return (valor + (valor * juros))
 }
 const precoEtiqueta = 100;
-const formaDePagamento = 100;
+const formaDePagamento = 1;
 
 
 
